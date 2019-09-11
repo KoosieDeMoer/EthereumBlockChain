@@ -1,2 +1,2 @@
 # EthereumBlockChain
-Drops documents hashes on the Ethereum Blockchain as Proof of Existance
+Drops document hashes on the Ethereum Blockchain as Proof of Existance
